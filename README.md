@@ -39,3 +39,26 @@ This project leverages official Vite plugins for enhanced development experience
    ```bash
    git clone https://github.com/your-username/roller-dice-game.git
    cd roller-dice-game
+2. Install dependencies:
+   npm install
+3. Start the development server:
+   npm run dev
+4. Open your browser and navigate to http://localhost:3000 to view the app.
+
+## 📜 Scripts
+npm run dev: Starts the development server with HMR.
+npm run build: Builds the application for production.
+npm run preview: Serves the production build locally.
+npm run lint: Runs ESLint for code quality checks.
+
+## 🤝 Contributing
+We welcome contributions! Here's how you can help:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-name).
+3. Commit your changes (git commit -m 'Add new feature').
+4. Push to the branch (git push origin feature-name).
+5. Open a pull request.
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
