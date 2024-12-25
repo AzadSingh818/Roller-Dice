@@ -2,6 +2,10 @@
 
 ![Roller Dice Game Screenshot](public/Dice-Game.png)
 
+## INNER IMAGE:
+
+![Roller Dice Game Screenshot](public/Dice-Game.png)
+
 Welcome to **Roller Dice Game**, an engaging and interactive web-based dice-rolling game. Built with the modern **React + Vite** stack, this project showcases a lightweight and high-performance frontend application.
 
 ## 🚀 Live Demo
