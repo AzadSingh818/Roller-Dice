@@ -1,12 +1,32 @@
-# React + Vite
+# Roller Dice Game 🎲
 
-#LIVE DEMO 
+This project is a simple and interactive dice-rolling game built with **React + Vite** for modern web development. Test your luck and enjoy a sleek and responsive design!
 
-https://rollerdice-game.netlify.app/
+## 🚀 Live Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Check out the live demo of the game here: [Roller Dice Game](https://rollerdice-game.netlify.app/)
 
-Currently, two official plugins are available:
+## 🛠 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Roll the dice with a single click.
+- Real-time dice updates.
+- Minimalist UI with smooth animations.
+- Built with modern web development tools.
+
+## ⚙️ Tech Stack
+
+- **React + Vite**: For building and serving the application with blazing-fast Hot Module Replacement (HMR).
+- **ESLint**: To ensure clean and maintainable code.
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/roller-dice-game.git
+   cd roller-dice-game
